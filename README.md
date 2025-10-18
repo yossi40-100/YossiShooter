@@ -25,7 +25,7 @@ For questions, suggestions, or feedback, please contact: https://www.youtube.com
 
 - スペースでどこでもトラバーサルシステムを 追加
   - GASP同様にジャンプキー長押しに対応させた
-  - GASP-ALSのトラバーサルシステムを移植し一部加工
+  - [GASP-ALS](https://github.com/PolygonHive/GASP-ALS)のトラバーサルシステムを移植し一部加工
   - アクターコンポーネントに集約し取り外しを簡単にした（プレイヤーだけに実装）
   - TODO: もとからのバグ含め課題がいろいろある
     - 障害物が複数重なっていると計算がうまくいかない
