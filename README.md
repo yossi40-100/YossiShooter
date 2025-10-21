@@ -21,6 +21,16 @@ For questions, suggestions, or feedback, please contact: https://www.youtube.com
 
 
 ## History
+
+### V1.2  2025/10/21
+- リターゲットキャラの親BPとして CBP_RetargetBase を追加し、下記の親子関係に  
+
+  - CBP_Base
+    - CBP_RetargetBase
+       - CBP_PlayerBase
+       - CBP_AI_Base
+
+
 ### V1.1 2025/10/21
 
 - 匍匐でのエイムができるようにした
