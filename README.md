@@ -22,6 +22,13 @@ For questions, suggestions, or feedback, please contact: https://www.youtube.com
 
 ## History
 
+### V1.3 2025/10/25
+- Ragdollからの復帰処理を実装
+  - ALSV4からの移植＋α
+  - CBP_Baseに基本系としてダメージ演出の形で利用しつつ、
+  - 子BPからオーバーライドで使い方を変えられるようにして、CBP_PlayerBaseでは使わない分岐とした
+
+
 ### V1.2  2025/10/21
 - リターゲットキャラの親BPとして CBP_RetargetBase を追加し、下記の親子関係に  
 
